@@ -8,10 +8,10 @@ Intallation for ROS 2 `robot operating system`
 - quadcore i7 intel, rtx gpu
 
 ## Step 1
-```mkdir ros2```
+``mkdir ros2``
 
 ## Step 2
-```mkdir ros2```
+``mkdir ros2``
 
 
 
