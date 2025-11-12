@@ -10,7 +10,7 @@ Intallation for ROS 2 `robot operating system`
 ## Step 1
 ```linux
 mkdir ros2
-``
+```
 
 ## Step 2
 ``mkdir ros2``
